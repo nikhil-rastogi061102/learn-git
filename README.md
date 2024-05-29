@@ -2,6 +2,7 @@
 
 # Project Summary
 
+I added this line for committing and seeing remote 
 Practice using git + Github
 
 This project will consist of three separate mini-projects to get you comfortable with the kinds of activities you'll be using git for throughout the class. 
